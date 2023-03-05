@@ -1,0 +1,12 @@
+#
+#
+#
+
+newmtl  Mesh_Mesh_Wall_texture.001
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 56.806129
+map_Kd Wall_Texture_two.png
+
