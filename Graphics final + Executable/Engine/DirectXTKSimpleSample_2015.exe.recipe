@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\colour_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\colour_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\light_ps2.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\light_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\light_vs2.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

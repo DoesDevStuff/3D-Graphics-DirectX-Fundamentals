@@ -1,0 +1,13 @@
+C:\Users\2102620\Downloads\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+E:\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+E:\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+D:\Anuya\_Desktop\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+D:\Anuya\_Desktop\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+D:\Anuya\_Desktop\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+D:\Anuya\_Desktop\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+D:\Anuya\_Desktop\All CMP502\CMP502 today\Tutorial 6\Tutorial 6\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
+D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+D:\Anuya\_Desktop\Graphics Final\Graphics final\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
